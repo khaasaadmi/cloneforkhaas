@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0f3930;
+      }
+
+      .cls-2 {
+        fill: #a3cad1;
+      }
+
+      .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: #adadad;
+        mix-blend-mode: multiply;
+        opacity: .3;
+      }
+    </style>
+  </defs>
+  <g class="cls-3">
+    <g id="Livello_1" data-name="Livello 1">
+      <g>
+        <path class="cls-2" d="M30,14.29c-8.68,0-15.71,7.04-15.71,15.71s7.04,15.71,15.71,15.71,15.71-7.04,15.71-15.71v-15.71h-15.71Z"/>
+        <polygon class="cls-4" points="9.94 50.06 45.71 50.06 45.71 14.29 9.94 50.06"/>
+        <path class="cls-1" d="M45.71,14.29l-15.71,15.71h15.71c0,8.66-7.05,15.71-15.71,15.71s-15.71-7.05-15.71-15.71,7.05-15.71,15.71-15.71V0C13.46,0,0,13.46,0,30s13.46,30,30,30,30-13.46,30-30v-15.71h-14.29Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
